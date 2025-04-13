@@ -101,6 +101,11 @@ MONGO_URI=your_mongodb_connection_string
 ### 🔹 Export as json functionality- not captured in video
 ![Export as json](screenshots/Screenshot%20(179).png)
 
+### 🔹 JSON Source file opened- not captured in video
+![Export as json](screenshots/Screenshot%20(180).png)
+
+### 🔹 Temperature not fetched due to absence of one call subscription- not captured in video
+![Export as json](screenshots/Screenshot%20(181).png)
 
 
 ---
