@@ -99,8 +99,8 @@ MONGO_URI=your_mongodb_connection_string
 ## 📸 Screenshots
 
 ### 🔹 Export as json functionality- not captured in video
-![Export as json](screenshots/Screenshot (179).png)
-(screenshots/Screenshot (180).png)
+![Export as json](screenshots/Screenshot%20(179).png)
+
 
 
 ---
