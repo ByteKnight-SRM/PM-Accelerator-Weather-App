@@ -5,6 +5,29 @@ A full-stack Weather App built using **React** (Frontend) and **Flask** (Backend
 
 ---
 
+## 💡 What It Does
+
+This app allows users to:
+
+- 🔍 **Search Current Weather** by:
+  - City Name
+  - Pincode
+  - User's **Current Location** (via geolocation)
+    
+- 📅 **View 5-Day Forecast** for the searched location
+- 📺 **Watch YouTube Videos** related to the searched location
+- 📝 **Create Weather Records** by entering and a location (validated using fuzzy matching) and custom **date range** to retrieve temperatures during those dates and stores them in MongoDB,
+- 📊 **Retrieve and View** temperature data for all included dates
+- ✅ **Input Validation**:
+  - Validates if the location is valid
+  - Ensures start date is before end date
+- 📋 **Manage Weather Records**:
+  - View all created records
+  - **Update** individual records (modifies date range for a location and fetches new temperatures)
+  - **Delete** specific records
+- 📥 **Download Weather Records** as a `.json` file
+- 🧑‍💼 **About Page** describing the **PM Accelerator Program**
+
 ## 🚀 Tech Stack
 
 - **Frontend:** React
@@ -20,8 +43,17 @@ A full-stack Weather App built using **React** (Frontend) and **Flask** (Backend
 PM-Accelerator-Weather-App/
 ├── client/        # React Frontend
 │   └── .env       # Contains YOUTUBE_API_KEY
+    └── src/
+        └── components/
+            └── About.js
+            └── CreatePage.js
+            └── ReadPage.js
+            └── UpdatePage.js
+        └── App.js
 ├── server/        # Flask Backend
 │   └── .env       # Contains WEATHER_API_KEY and MONGO_URI
+    └── app.py
+    └── requirements.txt
 └── README.md
 ```
 
@@ -72,8 +104,8 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ## 💡 Author
 
-Made with 💙 by [Your Name]  
-[LinkedIn](https://www.linkedin.com/in/your-profile) • [Portfolio](https://your-portfolio.com)
+Made by Stephen Raju Mathew
+[LinkedIn](https://www.linkedin.com/in/stephen-raju-mathew
 
 
 
