@@ -1,6 +1,7 @@
 # 🌦️ PM-Accelerator-Weather-App
 
 A full-stack Weather App built using **React** (Frontend) and **Flask** (Backend), as part of my **PM Accelerator Internship Assessment**! This app fetches real-time weather data and also includes a YouTube integration for related weather videos.
+# [Focused on functionality with minimal UI design due to time constraints]
 
 ---
 
