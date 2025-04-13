@@ -4,7 +4,7 @@ A full-stack Weather App built using **React** (Frontend) and **Flask** (Backend
 # [Focused on functionality with minimal UI design due to time constraints]
 
 ---
-Watch the full demo here: [YouTube Demo](https://youtu.be/aoj7h-fkxxU))
+Watch the full demo here: [YouTube Demo](https://youtu.be/aoj7h-fkxxU)
 
 ## 💡 What It Does
 
