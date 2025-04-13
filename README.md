@@ -105,7 +105,7 @@ MONGO_URI=your_mongodb_connection_string
 ![Export as json](screenshots/Screenshot%20(180).png)
 
 ### 🔹 Temperature not fetched due to absence of one call subscription- not captured in video
-![Export as json](screenshots/Screenshot%20(181).png)
+![Export as json](screenshots/Screenshot%20(182).png)
 
 
 ---
